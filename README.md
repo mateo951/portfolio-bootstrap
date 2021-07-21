@@ -1,6 +1,6 @@
 Portfolio
 
-The project's goal is to clone our portfolio using bootstrap frameword. Applying bootstrap's library and understanding their practices is key. This project is the start of a micronaut future portfolio!
+The project's goal is to clone our portfolio using bootstrap framework. Applying bootstrap's library and understanding their practices is key. This project is the start of a micronaut future portfolio!
 
 ![Alt text](/media/screenshot_1.png?raw=true)
 
