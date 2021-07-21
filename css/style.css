@@ -2,3 +2,19 @@ body {
   margin: 0;
   padding: 0;
 }
+
+.font-family {
+  font-family: 'Inter', sans-serif;
+}
+
+.bg-img {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.headline-bg {
+  background-image: url('/media/headerbg-desktop.svg');
+  background-position: center;
+  max-width: 100%;
+  min-height: 100vh;
+}
