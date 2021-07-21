@@ -1,6 +1,6 @@
 Portfolio
 
-The project's goal is to clone a design from a portfolio with html and css. Applying new tools such us Flexbox, Figma, and as well as using best practices for html and css. This project is the start of a micronaut future portfolio!
+The project's goal is to clone our portfolio using bootstrap frameword. Applying bootstrap's library and understanding their practices is key. This project is the start of a micronaut future portfolio!
 
 ![Alt text](/media/screenshot_1.png?raw=true)
 
@@ -8,15 +8,16 @@ Built With
 - HTML, CSS, JS
 - Linters, Node.js, Git, Flexbox
 
-[Portolio Live Demo](https://mateo951.github.io/portfolio/)
+[Portolio Live Demo](https://mateo951.github.io/portfolio-bootstrap/)
 
 To get a local copy up and running follow these simple example steps.
 - On your terminal and run the following command to clone the repository
   
-  `git clone git@github.com:mateo951/portfolio.git`
+  `git@github.com:mateo951/portfolio-bootstrap.git`
 
 Authors
-👤 Mateo Villagómez
+:woman: Laylo Khodjaeva 
+:man: Mateo Villagómez
 
 GitHub: [@mateo951](https://github.com/mateo951)
 Twitter: [@MVGameDev](https://twitter.com/MVGameDev)
