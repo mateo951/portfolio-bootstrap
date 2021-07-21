@@ -5,7 +5,7 @@ The project's goal is to clone our portfolio using bootstrap frameword. Applying
 ![Alt text](/media/screenshot_1.png?raw=true)
 
 Built With
-- HTML, CSS, JS
+- HTML, CSS, JS, Bootstrap
 - Linters, Node.js, Git, Flexbox
 
 [Portolio Live Demo](https://mateo951.github.io/portfolio-bootstrap/)
